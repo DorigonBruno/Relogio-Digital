@@ -1,5 +1,5 @@
 <p>
-  <img src="./github/thumb-relogio.png.png">
+  <img src="./github/thumb-relogio.png">
 </p>
 
 ## Relógio Digital - ⏰
