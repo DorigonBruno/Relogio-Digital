@@ -13,8 +13,8 @@ function setClock() {
   segundos.textContent = `${seconds}`;
 }
 
-function updateClock(){
-  setInterval(setClock, 1000)
+function updateClock() {
+  setInterval(setClock, 1000);
 }
 
 window.addEventListener("load", updateClock);
